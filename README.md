@@ -51,6 +51,8 @@ libdbus-1-dev
 libudev-dev
 automake
 libtool
+libical-dev
+libreadline-dev
 
 install with: sudo apt-get install or similar
 ```
